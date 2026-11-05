@@ -2,7 +2,7 @@
 
 A discrete-event simulation of a four-pump gas station with a shop and a single cashier, driven by a day of observed data, that measures how much the layout of the pumps costs customers.
 
-**TU/e · Stochastic simulation coursework**
+**Stochastic simulation coursework**
 
 <!-- REPORT_LINK -->
 
